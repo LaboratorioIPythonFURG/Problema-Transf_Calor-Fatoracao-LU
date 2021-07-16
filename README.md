@@ -7,7 +7,7 @@ perpendicular à placa. Sejam T1, T2, ... T6, as temperaturas em seis vértices 
 <div align="center">
 <!-- $$ T_1 = \frac{(10+20+T_2+T_4)}{4} \hspace{0.5cm} \text{ou} \hspace{0.5cm} 4T_1-T_2-T_4=30  $$ -->
 
-![formula](https://render.githubusercontent.com/render/math?math=T_1%20%3D%20%5Cfrac%7B%2810%2B20%2BT_2%2BT_4%29%7D%7B4%7D%20%5Chspace%7B0.5cm%7D%20%5Ctext%7Bou%7D%20%5Chspace%7B0.5cm%7D%204T_1-T_2-T_4%3D30%20)
+![formula](https://render.githubusercontent.com/render/math?math=%5CLARGE%20T_1%20%3D%20%5Cfrac%7B%2810%2B20%2BT_2%2BT_4%29%7D%7B4%7D%20%5Chspace%7B0.5cm%7D%20%5Ctext%7Bou%7D%20%5Chspace%7B0.5cm%7D%204T_1-T_2-T_4%3D30%20)
 <!-- T_1%20%3D%20%5Cfrac%7B%2810%2B20%2BT_2%2BT_4%29%7D%7B4%7D%20%5Chspace%7B0.5cm%7D%20%5Ctext%7Bou%7D%20%5Chspace%7B0.5cm%7D%204T_1-T_2-T_4%3D30%20 -->
 
 | <img src="figura2.png" width="300px"></img> |
@@ -18,7 +18,7 @@ perpendicular à placa. Sejam T1, T2, ... T6, as temperaturas em seis vértices 
 **a)** Escreva um sistema de seis equações cuja solução forneça estimativas para as temperaturas 
 <div align="center">
 
-![formula](https://render.githubusercontent.com/render/math?math=T_1%2C%20T_2%2C%20%5Cdots%2C%20T_6)
+![formula](https://render.githubusercontent.com/render/math?math=%5CLARGE%20T_1%2C%20T_2%2C%20%5Cdots%2C%20T_6)
 </div>
 
 **b)** Resolva o sistema linear obtido em **a)** por:
