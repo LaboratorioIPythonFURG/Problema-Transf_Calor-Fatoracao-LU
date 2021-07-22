@@ -1,0 +1,3 @@
+[submodule "verificador-respostas"]
+	path = verificador-respostas
+	url = https://github.com/LaboratorioIPythonFURG/verificador-respostas
