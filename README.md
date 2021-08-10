@@ -21,7 +21,4 @@ perpendicular à placa. Sejam T1, T2, ... T6, as temperaturas em seis vértices 
 ![formula](https://render.githubusercontent.com/render/math?math=%5CLARGE%20T_1%2C%20T_2%2C%20%5Cdots%2C%20T_6)
 </div>
 
-**b)** Resolva o sistema linear obtido em **a)** por:
-
-    1. Eliminação Gaussiana (sem e com pivotamento)
-    2. Fatoração LU (sem e com pivotamento)
+**b)** Resolva o sistema linear obtido em **a)** pelo método de fatoração LU
