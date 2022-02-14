@@ -22,3 +22,5 @@ perpendicular à placa. Sejam T1, T2, ... T6, as temperaturas em seis vértices 
 </div>
 
 **b)** Resolva o sistema linear obtido em **a)** pelo método de fatoração LU
+
+Fonte: Lay, D. C., Lay, S. R., McDonald, J. J. Álgebra Linear e Suas Aplicações. Rio de Janeiro: LTC, 2000.
